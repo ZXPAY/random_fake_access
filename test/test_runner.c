@@ -1,0 +1,7 @@
+#include "unity_fixture.h"
+
+TEST_GROUP_RUNNER(FAKE_ACCESS)
+{
+  RUN_TEST_CASE(FAKE_ACCESS, test1);
+  RUN_TEST_CASE(FAKE_ACCESS, test2);
+}

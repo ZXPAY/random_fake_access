@@ -1,0 +1,6 @@
+[submodule "test_framework/fff"]
+	path = test_framework/fff
+	url = https://github.com/meekrosoft/fff.git
+[submodule "test_framework/Unity"]
+	path = test_framework/Unity
+	url = https://github.com/ThrowTheSwitch/Unity.git
