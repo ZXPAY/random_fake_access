@@ -2,7 +2,7 @@
 
 void runAllTests(void)
 {
-  RUN_TEST_GROUP(FAKE_ACCESS);
+  RUN_TEST_GROUP(RANDOM_FAKE_ACCESS);
 }
 
 static const char* command[] = {"", "-v", "-r", "1"};

@@ -1,0 +1,8 @@
+#ifndef FAKE_ACCESS_CONFIG_H_
+#define FAKE_ACCESS_CONFIG_H_
+
+#define PAGE_NUM   (16U)
+#define PAGE_SIZE  (16U)
+#define TOTAL_SIZE (PAGE_NUM * PAGE_NUM)
+
+#endif /* FAKE_ACCESS_CONFIG_H_ */
